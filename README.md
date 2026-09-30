@@ -2,7 +2,7 @@
 
 A small blockchain in Python with a Flask node, written for a distributed systems course in October 2024. The authors are Pablo Tuñón Laguna and Jorge Vančo San Pedro, who worked as a pair (both names are in the header of each source file).
 
-The assignment skeleton (the structure of the classes, the method signatures and the Spanish docstrings that describe them) belongs to the course, so this repository has no licence file. The implementation is the authors' work.
+Released under the MIT licence, see `LICENSE`.
 
 ## Files
 
